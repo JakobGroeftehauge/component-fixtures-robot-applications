@@ -1,0 +1,1 @@
+# component-fixtures-robot-applications
